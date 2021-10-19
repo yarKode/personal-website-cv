@@ -24,12 +24,12 @@ function App() {
         <div className="gen-container">
           <div className="header-content">
             <h1>
-              Highly-motivated Junior <span>Front-End (React)</span> Developer
+              Junior <span>Front-End (React)</span> Developer
             </h1>
             <h2>
               Looking for a specialist who will be happy to grow up with your
               company and became a valuable team player? Check my CV or Contact
-              Me now!
+              me now!
             </h2>
           </div>
           <a href="/#portfolio" className="purple-btn">
