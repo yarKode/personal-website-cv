@@ -356,7 +356,7 @@ header {
 .portfolio {
   background: $green-font;
   background-image: url("./img/abstract-circles.svg");
-  background-size: 150%;
+  background-size: 120%;
   background-repeat: no-repeat;
   background-position: bottom;
 
@@ -503,7 +503,7 @@ header {
 
   .about-container {
     .about-photo {
-      background: url("./img/jake-fagan-Y7C7F26fzZM-unsplash.jpg");
+      background: url("./img/yar-g-dev.jpg");
       background-size: cover;
       background-position: center;
       width: 100%;
@@ -692,8 +692,9 @@ footer {
   }
 
   .portfolio {
-    background-size: cover;
-    background-position: left;
+    background-image: url("./img/desktop-circles.svg");
+    background-size: contain;
+    background-position: right;
     min-height: 100vh;
 
     .gen-container {
@@ -753,6 +754,7 @@ footer {
   }
 
   .about {
+    background-image: url("./img/desktop-dots.svg");
     background-size: contain;
     .gen-card {
       flex-direction: row;

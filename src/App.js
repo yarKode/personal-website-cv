@@ -24,11 +24,12 @@ function App() {
         <div className="gen-container">
           <div className="header-content">
             <h1>
-              Junior <span>Front-End / React</span> Developer
+              Highly-motivated Junior <span>Front-End (React)</span> Developer
             </h1>
             <h2>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus
-              condimentum praesent mauris sit.
+              Looking for a specialist who will be happy to grow up with your
+              company and became a valuable team player? Check my CV or Contact
+              Me now!
             </h2>
           </div>
           <a href="/#portfolio" className="purple-btn">
@@ -60,7 +61,7 @@ function App() {
           <div className="about-container gen-card">
             <div className="about-photo"></div>
             <div className="about-description">
-              <p>
+              {/*               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus
                 netus vulputate viverra mi elementum bibendum sodales.
               </p>
@@ -82,6 +83,29 @@ function App() {
               <p>
                 Enim viverra quam a dolor. Et, et sagittis lobortis dictum
                 volutpat non integer senectus maecenas.
+              </p> */}
+              <p>
+                All my professional life was related with IT sphere. I made a
+                long way from PPC Specialist till QA specialist. I always was
+                excited from people who are able to CREATE great Services and
+                Products. One day I asked muyself: what if I can do it too?
+              </p>
+              <p>
+                From that moment I have completed several JavaScript / React
+                Courses and build my own pet-project. It was quite interesting.
+                And now I feel I'm ready to became a part of a team.
+              </p>
+              <p>My cons:</p>
+              <ul>
+                <li>Love to learn new technologies;</li>
+                <li>Responsible;</li>
+                <li>Have a rich experience in IT generaly;</li>
+                <li>Adequate (I'm sure it is important nowadays 😀)</li>
+              </ul>
+              <p>
+                If you are looking for such kind of person - please feel free to
+                reach me via <a href="/#contact">Contact form</a> or any other
+                channel specified in Footer.
               </p>
             </div>
           </div>

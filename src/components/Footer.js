@@ -8,19 +8,23 @@ export default function Footer() {
     <footer>
       <div className="gen-container">
         <div className="social-links">
-          <a href="https://gmail.com" target="_blank" rel="noreferrer">
+          <a
+            href="mailto:grigoriy.yarko@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             <div className="footer-btn-container">
               <Icon icon="feather:mail" width="1.6rem" height="1.6rem" />
             </div>
           </a>
           <a
-            href="https://www.linkedin.com/in/grigoriyyarko/"
+            href="https://djinni.co/q/e401c38f3b/"
             target="_blank"
             rel="noreferrer"
           >
             <div className="footer-btn-container">
               <Icon
-                icon="akar-icons:linkedin-fill"
+                icon="akar-icons:django-fill"
                 width="1.6rem"
                 height="1.6rem"
               />
