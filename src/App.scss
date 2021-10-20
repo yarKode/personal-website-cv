@@ -383,14 +383,14 @@ header {
     .swiper-button-prev {
       color: $white;
       top: 94%;
-      transform: translate(0, -120%);
+      transform: translate(0, -160%);
     }
 
     .swiper-pagination {
       bottom: 6%;
       width: 40%;
       left: 50%;
-      transform: translate(-50%, -120%);
+      transform: translate(-50%, -60%);
       .swiper-pagination-bullet {
         background-color: $white;
       }
@@ -481,6 +481,7 @@ header {
 
       .swiper-pagination {
         bottom: auto;
+
         .swiper-pagination-bullet {
           background-color: rgba($white, 0.7);
         }
@@ -720,11 +721,12 @@ footer {
       .swiper-button-next,
       .swiper-button-prev {
         top: 100%;
-        transform: translate(0, -120%);
+        transform: translate(0, -140%);
       }
 
       .swiper-pagination {
         bottom: 0%;
+        transform: translate(-50%, -100%);
       }
 
       .swiper-slide {
