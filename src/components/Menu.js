@@ -15,7 +15,7 @@ export default function Menu() {
     <div className="menu-bar">
       <a href="/">
         <div className="logo">
-          Yarko.<span>grigoriy</span> ()
+          Yarko.<span>grigoriy</span>()
         </div>
       </a>
       <div className="hamburger" onClick={toggleMobMenu}>
